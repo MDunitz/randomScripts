@@ -1,0 +1,7 @@
+Name,Latitude,Longitude,Element,Deposit_Type,Status,Notes,Reference
+Bunker Hill Superfund,47.55,-116.12,As/Pb/Zn,Superfund,Remediation,ID - Mining waste,"Box et al., 2005, Applied Geochemistry v.20; EPA NPL Site ID: ID0980633712"
+Anaconda Superfund,46.17,-112.9,As/Cu,Superfund,Remediation,MT - Cu smelter,"Moore & Luoma, 1990, Env. Sci. & Tech. v.24; EPA NPL Site ID: MT0000275040"
+Butte/Silver Bow,46.02,-112.52,As/Cu/Zn,Superfund,Remediation,MT - Cu mining,"Gammons et al., 2005, Chemical Geology v.215; EPA NPL Site ID: MT0008952635"
+Iron Mountain,40.67,-122.52,As/Cu,Superfund,Remediation,CA - Pyrite mining,"USGS MRData; EPA Superfund Database"
+Tar Creek,36.97,-94.88,Pb/Zn,Superfund,Remediation,OK - Pb-Zn mining,"Andrews et al., 2009, Env. Geochem. & Health v.31; EPA NPL Site ID: OK0001092858"
+Clark Fork River,47.15,-113.35,As/Cu,Superfund,Remediation,MT - Clark Fork,"Moore & Luoma, 1990, Env. Sci. & Tech. v.24; EPA Superfund Database"
