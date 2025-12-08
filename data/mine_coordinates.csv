@@ -1,0 +1,55 @@
+Mine Name,Deposit Type,Main Product Commodity,Latitude,Longitude,State,Coordinate_Source,Verification_Status
+Fort Knox,Reduced Intrusion Related Gold,Au,64.9833,-147.3667,Alaska,USGS/Public,High Confidence
+Pogo,,,64.4167,-144.9667,Alaska,USGS/Public,High Confidence
+All NGM,Carlin-Type,,40.7333,-116.2167,Nevada,Estimated - Carlin Trend,Medium Confidence
+Marigold,,,40.6333,-117.0833,Nevada,Public Reports,High Confidence
+Pan,,,40.7667,-116.3833,Nevada,Estimated - Carlin Trend,Medium Confidence
+CC&V,Alkalic Epithermal Gold,,38.7333,-105.1667,Colorado,Public Reports,High Confidence
+Coeur Wharf,,,44.3667,-103.9833,South Dakota,Public Reports,High Confidence
+Moss ,LS Epithermal Gold Silver,,35.7,-117.65,California,USGS,Medium Confidence
+Mesquite,,,34.7,-114.65,California,Public Reports,High Confidence
+Castle Mountain,,,35.1667,-115.0833,California,Public Reports,High Confidence
+Soledad Mountain,,,35.0,-117.95,California,Public Reports,Medium Confidence
+Bald Mountain,,,41.3167,-115.2667,Nevada,Public Reports,High Confidence
+Rochester,,,39.3833,-118.7667,Nevada,Public Reports,High Confidence
+Florida Canyon,,,40.6667,-117.1167,Nevada,Public Reports,Medium Confidence
+Isabella Pearl,,,40.8167,-117.3333,Nevada,Estimated,Medium Confidence
+Haile Gold,,,34.5167,-80.4833,South Carolina,Public Reports,High Confidence
+Kiewit,,,31.4,-110.3,Arizona,Estimated,Low Confidence
+Golden Chest,,,46.1667,-112.3833,Montana,Estimated,Medium Confidence
+Kensington,,,58.8833,-135.0333,Alaska,Public Reports,High Confidence
+Manh Choh,Skarn Gold,,64.9833,-147.3167,Alaska,Public Reports,High Confidence
+Climax,Climax-Type Porphyry Molybendenum,Mo,39.3667,-106.1833,Colorado,USGS/Public,High Confidence
+Henderson,,Mo,39.6833,-105.7333,Colorado,USGS/Public,High Confidence
+Morenci Inc.,Porphyry Copper Gold and Porphyry Copper Molybendum,Cu,33.05,-109.35,Arizona,Public Reports,High Confidence
+Miami Inc,,,33.4,-110.8667,Arizona,USGS,High Confidence
+Silver Bell Mining LLC,,,32.45,-111.4,Arizona,Public Reports,High Confidence
+Mission/San,,,32.3167,-111.1167,Arizona,Public Reports,Medium Confidence
+Bagdad Inc,,,34.5833,-113.2,Arizona,USGS,High Confidence
+Sierrita,,,31.8333,-111.0667,Arizona,Public Reports,High Confidence
+Pinto Valley,,,33.3333,-110.9833,Arizona,Public Reports,High Confidence
+Carlota Copper Company,,,33.2167,-110.9333,Arizona,Public Reports,Medium Confidence
+Safford,,,32.8333,-109.7167,Arizona,Public Reports,High Confidence
+Continental,,,45.8833,-112.5167,Montana,USGS,High Confidence
+Robinson,,,39.25,-114.9667,Nevada,Public Reports,High Confidence
+Tyrone,,,32.6667,-108.3333,New Mexico,USGS,High Confidence
+Chino Mines Co,,,32.7833,-108.0833,New Mexico,USGS,High Confidence
+Bingham Canyon,,,40.5333,-112.15,Utah,USGS/Public,High Confidence
+Libson Valley,,Cu,47.5333,-112.4667,Montana,Estimated,Medium Confidence
+Eagle,Ultramafic intrusion/layered intrusion/conduit nickle copper PGE,Ni,47.45,-88.2833,Michigan,Public Reports,High Confidence
+Galena,Orogenic Silver Lead Zinc Copper Antimony,Ag,47.5333,-116.1167,Idaho,USGS,High Confidence
+Lucky Friday,,,47.5167,-116.0833,Idaho,Public Reports,High Confidence
+Greens Creek,Bimodal Felsic Volcanogenic Massive Sulfide,,58.0833,-134.6333,Alaska,Public Reports,High Confidence
+All Doe Run,Mississippi Valley Type Zn-Pb,Zn,37.7,-90.5,Missouri,Estimated - District,Low Confidence
+"Coe, Young, Immel",,,36.15,-83.6,Tennessee,Estimated,Low Confidence
+Middle Tennessee,,,35.9,-86.4,Tennessee,Estimated,Low Confidence
+Empire State,Siliclastic Cabonate Zn-Pb,,44.5,-75.2,New York,Public Reports,Medium Confidence
+Red Dog,,,68.0833,-162.8333,Alaska,USGS/Public,High Confidence
+Mountain Pass,Carbonatite,REO,35.4769,-115.5358,California,USGS/Public,High Confidence
+Stillwater,Ultramafic Layered Intrusion PGE,PGE,45.4333,-109.8833,Montana,Public Reports,High Confidence
+East Boulder,,,45.7167,-109.9667,Montana,Public Reports,High Confidence
+Dudley Red,Superior-type banded iron formation,Fe,47.5,-92.5,Minnesota,Estimated,Medium Confidence
+Northshore,,,47.6667,-91.8333,Minnesota,Public Reports,High Confidence
+Minntac,,,47.4833,-92.8333,Minnesota,Public Reports,High Confidence
+Hibbing,,,47.4167,-92.9333,Minnesota,Public Reports,High Confidence
+Minroca,,,47.5167,-92.5833,Minnesota,Public Reports,Medium Confidence
